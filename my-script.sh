@@ -1,3 +1,4 @@
 #!/bin/bash
-echo " 
-echo "sada
+echo "Hello, World!" 
+echo "Knowledge is power."
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	
